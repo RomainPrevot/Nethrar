@@ -2,7 +2,7 @@ PLUGIN=$(shell basename `pwd`)
 PROJ_ROOT=$(shell dirname `pwd`)
 OBJ_DIR=bin
 SRC_DIR=src
-BUKKIT_API=../include/bukkit.jar
+BUKKIT_API=./spigot-1.14.4.jar
 JAR=$(PLUGIN).jar
 
 include sources.mk
