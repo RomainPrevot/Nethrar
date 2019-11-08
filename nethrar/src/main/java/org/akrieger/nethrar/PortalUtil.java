@@ -634,6 +634,7 @@ public class PortalUtil {
     keyY++;
 
     Location portalLoc = new Location(b.getWorld(), keyX, keyY, keyZ);
+    log.info("[NETHRAR] portal searched at " + keyX + "," + keyY + "," + keyZ);
 
     Portal newPortal = portals.get(portalLoc);
 
