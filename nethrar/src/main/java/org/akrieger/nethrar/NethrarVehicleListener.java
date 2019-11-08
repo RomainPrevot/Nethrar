@@ -2,7 +2,7 @@
  * Copyright (C) 2011-present Andrew Krieger.
  */
 
-package org.akrieger.Nethrar;
+package org.akrieger.nethrar;
 
 import org.bukkit.Material;
 import org.bukkit.entity.Vehicle;

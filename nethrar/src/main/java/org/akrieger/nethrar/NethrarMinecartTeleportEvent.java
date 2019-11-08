@@ -2,7 +2,7 @@
  * Copyright (C) 2011-present Andrew Krieger.
  */
 
-package org.akrieger.Nethrar;
+package org.akrieger.nethrar;
 
 import org.bukkit.entity.Minecart;
 import org.bukkit.event.Event;
